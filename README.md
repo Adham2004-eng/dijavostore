@@ -3,6 +3,7 @@ Dijavo Store is a simple, modern, and responsive e-commerce web application buil
 ---
 ## Live Demo
 
+
 Check out the live version of Dijavo Store https://dijavo-electronics-store.netlify.app/.
 ---
 
