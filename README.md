@@ -1,5 +1,5 @@
 # dijavostore
-Dijavo Store is a simple, modern, and responsive e-commerce web application built with **HTML**, **CSS**, and **JavaScript**. The project demonstrates product listing, product details, search functionality, cart management, and contact & about pages with a dark-themed UI.
+Dijavo Store is a simple, modern, and responsive e-commerce web application built with **HTML**, **CSS**, and **JavaScript**. The project demonstrates product listing, product details, search functionality, cart management, and contact & about pages.
 ---
 ## Live Demo
 
