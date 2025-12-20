@@ -1,6 +1,9 @@
 # dijavostore
 Dijavo Store is a simple, modern, and responsive e-commerce web application built with **HTML**, **CSS**, and **JavaScript**. The project demonstrates product listing, product details, search functionality, cart management, and contact & about pages with a dark-themed UI.
+---
+## Live Demo
 
+Check out the live version of Dijavo Store https://dijavo-electronics-store.netlify.app/.
 ---
 
 ## Project Overview
