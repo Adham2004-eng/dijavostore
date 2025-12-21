@@ -11,6 +11,7 @@ Check out the live version of Dijavo Store https://dijavo-electronics-store.netl
 
 Dijavo Store is designed to showcase a small e-commerce platform where users can:
 
+
 - Browse products on the home page.
 - Search for products using the navbar search.
 - View detailed information for each product.
